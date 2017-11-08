@@ -9,7 +9,7 @@
 
 ## Instructions
 
-The goal of this lab is to build a `Question` class in `index.js` that can store all instances, save them, retrieve them, and find them. 
+The goal of this lab is to build a `Question` class in `question.js` that can store all instances, save them, retrieve them, and find them. 
 
 ### `Question` Class
 

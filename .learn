@@ -2,7 +2,9 @@ tags:
   - learn.co
   - flatiron school
   - javascript
-  - prototypes
+  - class
+  - object orientation
+  - static functions
   - lab
 languages:
   - javascript
