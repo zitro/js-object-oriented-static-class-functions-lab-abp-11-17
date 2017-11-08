@@ -1,4 +1,4 @@
-# Prototypes in JS Lab
+# Static Class Functions and Properties Lab
 
 ## Objectives
 
